@@ -1,20 +1,25 @@
 # Mobile Engineering
 
-**Building cross-platform mobile applications with modern frameworks and shared-code technologies.**
+**Designing and engineering scalable mobile applications through modern native and cross-platform technologies.**
 
-This repository brings together my mobile development work across Flutter, React Native, Kotlin Multiplatform, and Compose Multiplatform.
+This repository showcases my mobile engineering work, technical explorations, and practical implementations across Android, Flutter, React Native, and Kotlin Multiplatform.
 
-## Technologies
+## Technology Stack
 
-- **Frameworks:** Flutter, React Native
-- **Languages:** Dart, Kotlin, JavaScript
+- **Mobile Development:** Android, Jetpack Compose, Flutter, React Native
+- **Languages:** Kotlin, Java, Dart, JavaScript
 - **Multiplatform:** Kotlin Multiplatform (KMP), Compose Multiplatform
-- **Tools:** Android Studio, Git, GitHub
+- **Development Tools:** Android Studio, Gradle, Git, GitHub
 
-## What I Focus On
+## Engineering Focus
 
-- Building cross-platform mobile applications.
-- Exploring code sharing across Android, iOS, and other platforms.
-- Creating responsive, consistent user interfaces.
-- Structuring maintainable and reusable application code.
-- Exploring modern mobile frameworks and multiplatform development approaches.
+- Building high-quality, scalable mobile applications.
+- Developing modern, intuitive, and responsive user interfaces.
+- Designing maintainable architectures and reusable components.
+- Integrating REST APIs and managing application state.
+- Exploring cross-platform and shared-code architectures.
+- Applying engineering best practices, testing, and performance optimization.
+
+## Objective
+
+Building reliable, user-focused mobile products while continuously exploring modern technologies, architectural patterns, and software engineering practices.
